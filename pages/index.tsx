@@ -1,5 +1,6 @@
+import {NextPage} from "next";
 
-const HomePage = () => {
+const HomePage: NextPage = () => {
   return <div>Hello</div>
 }
 
